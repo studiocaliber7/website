@@ -1,2 +1,4 @@
-# STUDIO CALIBER7 Website
+# STUDIO CALIBER7
 Website assets repo
+
+©2019-2023 STUDIO CALIBER7
