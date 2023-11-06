@@ -1,2 +1,2 @@
-# website
-Website assets
+# STUDIO CALIBER7 Website
+Website assets repo
